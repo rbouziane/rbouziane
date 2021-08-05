@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rbouziane
-- 👀 I’m interested in React Native, Unity/C#, C++
-- 🌱 I’m currently learning React Native, Unity/C#, C++
+- 👀 I’m interested in React Native, ReactJS, Unity/C#, C++
+- 🌱 I’m currently learning React Native, ReactJS, Unity/C#, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ronan.bouziane@epitech.eu
 
